@@ -1,0 +1,16 @@
+{
+  "voldf" : {
+    "order" : 0,
+    "version" : 50001,
+    "template" : "voldf-*",
+    "settings" : {
+      "index" : {
+        "refresh_interval" : "5s"
+      }
+    }
+    "mappings" : {
+        "properties" : {
+        }
+      }
+    }
+}
